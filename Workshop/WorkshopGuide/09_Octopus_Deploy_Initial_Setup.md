@@ -44,11 +44,11 @@ You can change the project's settings by accessing the main page's settings menu
 
 - Name.
 - Enable or disable the project to allow or prevent releases and deployments from being created.
-- [Logo](#project-logo)
+- Logo
 - Description
-- [Project Group](#project-group)
-- [Release Versioning](/docs/releases/release-versioning.md)
-- [Release Notes Template](/docs/releases/release-notes.md#Release-Notes-Templates)
+- Project Group
+- Release Versioning
+- Release Notes Template
 
 
 ## Project logo {#project-logo}
