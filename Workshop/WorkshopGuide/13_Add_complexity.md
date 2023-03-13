@@ -129,7 +129,7 @@ If you are happy with it you can now deploy to Production.
 
 Once the deployment has completed the new code will now be deployed to your production web app. 
 
-You have now completed the hands on part of the lab! Congratulations! [Head over to the wrap up section.]()
+You have now completed the hands on part of the lab! Congratulations! [Head over to the wrap up section.](14_Wrap_Up.md)
 
 
 
