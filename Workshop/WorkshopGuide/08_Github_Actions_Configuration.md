@@ -241,4 +241,4 @@ To be able to deploy the application within Octopus Deploy it needs to be packag
 
 Now that we have our workflow set up for the application build, we need to configure our deployment within Octopus Deploy. 
 
-[Octopus Configuration](09_Octopus_Deploy_Configuration.md)
+[Octopus Configuration](09_Octopus_Deploy_Initial_Setup.md) 
