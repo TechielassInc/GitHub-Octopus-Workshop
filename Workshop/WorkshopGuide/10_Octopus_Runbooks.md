@@ -334,4 +334,4 @@ You should now have:
 
 ## Next Section
 
-[Set up the Octopus Deploy Deployment Process](15_Octopus_Deployment.md)
+[Set up the Octopus Deploy Deployment Process](12_Octopus_Deployment.md)
