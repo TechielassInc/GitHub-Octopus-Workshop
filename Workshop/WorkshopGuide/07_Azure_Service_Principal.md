@@ -23,6 +23,7 @@ This will create an Azure Service Principal with contributor access to your subs
 -  Next within your Shell session enter the following command:
 
 ```powershell
+Connect-AzureAD
 (Get-AzureADServicePrincipal -SearchString "$SPName").AppId
 ```
 
