@@ -24,3 +24,5 @@ You can now head over to your Web App URL and test the random quotes application
 
 
 💡💡 When you complete your first deployment with Octopus Deploy, a box should display asking for feedback and offering some free stickers. 💡💡
+
+The next step is to add a bit of [complexity to your deployment environment](13_Add_complexity.md) 
